@@ -1,10 +1,10 @@
 import streamlit as st
 import requests
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Charger les variables d'environnement
-load_dotenv()
+# load_dotenv()
 
 # Configuration de l'API Groq
 # GROQ_API_KEY = os.getenv("GROQ_API_KEY")
