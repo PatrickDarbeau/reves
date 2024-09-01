@@ -68,5 +68,5 @@ st.sidebar.warning(
     "Les interprétations fournies par cette application sont générées par un modèle d'IA "
     "et doivent être considérées comme des possibilités plutôt que des significations définitives. "
     "Les rêves sont très personnels et leur véritable signification ne peut souvent être "
-    "déterminée par le rêveur qu'après réflexion."
+    "déterminée par le rêveur qu'après réflexion. Patrick DARBEAU"
 )
