@@ -33,6 +33,9 @@ Vous avez besoin d'un compte Streamlit Community Cloud pour déployer une applic
 
 share.streamlit.io/signup
 
+Voir l'exemple : l'interpréteur de rèves
+https://ddycuaxopyjfenx6n67a6c.streamlit.app/
+
 Soyez prudent si vous partagez une application qui utilise des clés API qui sont une option payante, car cela pourrait s'avérer coûteux si de nombreuses personnes commencent à utiliser votre application. Alternativement, vous pouvez faire ce que j'ai fait et modifier votre code pour utiliser une option LLM gratuite telle que GROQ.
 
 
